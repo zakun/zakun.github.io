@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: 测试 markDown 语法
+subtitle: markDown 基本语法测试
 tags: [test]
 comments: true
 ---
