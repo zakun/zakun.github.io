@@ -13,4 +13,4 @@
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
 {% endif %}
 
-<a href="{{ linkurl }}">{{ include.link[0] }}</a>
+<a href="{{ linkurl }}" {% if internal == false %} target = "_blank" {% endif %}>{{ include.link[0] }}</a>
