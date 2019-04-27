@@ -23,7 +23,7 @@ description: Decide that you want it more than you are afraid of it.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about me"
+  About Me: "aboutme"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
