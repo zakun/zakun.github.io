@@ -1,5 +1,4 @@
 # --- General options --- #
-
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -23,14 +22,14 @@ description: Decide that you want it more than you are afraid of it.
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  首页: ""
+  资源:
+    - 学习markdown语法: "https://github.com/zakun/Markdown"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Jekyll document: "https://jekyllrb.com/docs/"
-    - GitHub Pages: "https://pages.github.com/"
-  About Me: "aboutme"
-  Author's Page: "https://deanattali.com"
+    - Jekyll 文档: "https://jekyllrb.com/docs/"
+    - GitHub静态页面: "https://pages.github.com/"
+  嗨，是我: "aboutme"
+  模板作者: "https://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
